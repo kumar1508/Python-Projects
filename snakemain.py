@@ -9,6 +9,7 @@ curses.noecho( )
 curses.curs_set(0)
 win.border(0)
 win.nodelay(1) 
+#kkkkkk
 
 snake = [(4, 10), (4, 9), (4, 8)]
 food = (10, 20)
